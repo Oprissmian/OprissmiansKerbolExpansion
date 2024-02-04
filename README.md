@@ -6,7 +6,7 @@ OprissmiansKerbolExpansion is a planet pack for Kerbal Space Program that will a
 
 2 - Features & Planned Features
 
-Currently the mod adds three gas giants and a rocky moon to one of said gas giants. The current plans are to add two further gas giants, a terrestrial, habitable planet between Kerbin and Duna as well as moons for every body.
+Currently the mod adds three gas giants and a rocky moon to one of said gas giants. The current plans are to add three further gas giants, a terrestrial, habitable planet between Kerbin and Duna, a replacement for Eve, a trojan planet as well as moons for nearly every body.
 
 3 - Installation Process
 
